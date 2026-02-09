@@ -1,5 +1,5 @@
 
-# ITT440 — Docker Socket Programming Project
+# ITT440 — Network Programming Project - Docker
 
 ## 🎥 Demo Video
 ▶ https://youtu.be/jls_jp_3AA0
