@@ -1,5 +1,5 @@
 
-# ITT440 — Network Programming Project - Docker
+# ITT440 — Network Programming Project 
 
 ## 🎥 Demo Video
 ▶ https://youtu.be/jls_jp_3AA0
